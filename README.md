@@ -47,9 +47,7 @@ onicuto@linux:~$ whoami
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onicuto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="onicuto's GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onicuto&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="150" />
+  <img src="./github-metrics.svg" alt="onicuto's GitHub Metrics" width="800" />
 </div>
 
 ---
